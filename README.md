@@ -6,10 +6,13 @@
 <h3 align="center">About Me :</h3>  
 <br>
 <ul>
-    <li>Elemento 1</li>
-    <li>Elemento 2</li>
-    <li>Elemento 3</li>
+    <li>I am 18 years old</li>
+    <li>I am a backend developer</li>
+    <li>I love learning</li>
+    <li>I am very disciplined and constant</li>
+    <li>I love reading books and developing myself as a person</li>
 </ul>
+
 
 <!-- Socials --> 
 
