@@ -7,6 +7,7 @@
 <br><p>
 &nbsp;I am 18 years old
 </p>
+- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
 <p>
 I am a backend developer
 </p>
