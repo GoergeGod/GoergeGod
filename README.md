@@ -4,22 +4,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm George.</h1>
 <a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" /></a>
 <h3 align="center">About Me :</h3>  
-<br><p>
-I am 18 years old
-</p>
-<p>
-I am a backend developer
-</p>
-<p>
-I love learning
-</p>
-<p>
-I am very disciplined and constant
-</p>
-<p>
-I love reading books and developing myself as a person
-</p>
-<p align="center"><i>✨(Click on the header to know more!)✨</i></p>
+<br>
+<ul>
+    <li>Elemento 1</li>
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+</ul>
 
 <!-- Socials --> 
 
