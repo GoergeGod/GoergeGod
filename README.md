@@ -55,6 +55,11 @@
 
  </div>
 
+ <div align="center">
+   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
+ </div>
+
+
 <!-- Catto gifs -->
 
 <h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
