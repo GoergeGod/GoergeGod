@@ -25,7 +25,8 @@
 </a>
 
 </div>
-
+<br>
+<hr>
 <!-- Tech Stack --> 
 
 <h3 align="Center">Languages and Tools:</h3>  
@@ -39,14 +40,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
 </p>
 
-
-<!-- Visitor count -->
-<div align="center">
-<h3 align="center">Visitor Count: </h3> 
-
-![Visitor Count](https://profile-counter.glitch.me/GoergeGod/count.svg)
-
- </div>
+<!-- Gif Dino -->
 
  <div align="center">
    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
