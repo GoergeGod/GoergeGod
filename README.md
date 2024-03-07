@@ -45,7 +45,7 @@
 <!-- Gif Dino -->
 
  <div align="center">
-     <h3 aling="center">A play of cumputer<h3>
+     <h3 aling="center">Play of Cumputer<h3>
          <br>
    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
  </div>
