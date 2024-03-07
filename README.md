@@ -12,7 +12,7 @@
     <li>I am very disciplined and constant</li>
     <li>I love reading books and developing myself as a person</li>
 </ul>
-
+<br>
 
 <!-- Socials --> 
 
