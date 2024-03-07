@@ -30,6 +30,7 @@
 <!-- Tech Stack --> 
 
 <h3 align="Center">Languages and Tools:</h3>  
+<br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
