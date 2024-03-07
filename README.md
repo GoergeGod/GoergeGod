@@ -41,10 +41,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 </p>
-
+<br>
 <!-- Gif Dino -->
 
  <div align="center">
+     <h3 aling="center">A play of cumputer<h3>
+         <br>
    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
  </div>
 
