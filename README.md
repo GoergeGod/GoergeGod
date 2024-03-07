@@ -48,10 +48,6 @@
  </div>
 
 
-<!-- Catto gifs -->
-
-<h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
-
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
       
