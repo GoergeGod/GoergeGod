@@ -35,10 +35,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 </p>
 
 <!-- Gif Dino -->
@@ -47,12 +47,4 @@
    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
  </div>
 
-
-<div align="center">
-    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
-      
-</div>
-
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
 
