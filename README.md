@@ -36,10 +36,10 @@
 <img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png)](https://postimg.cc/hJyK95jK)"/>
 <img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png)](https://postimg.cc/0rf1m4HF)"/>
 <img src="https://i.postimg.cc/5tQkWGSJ/logos-sebas-Java.png)](https://postimg.cc/4KZ1zW02)"/>
-<img src="
-<img src="
-<img src="
-<img src="
+<img src="https://i.postimg.cc/Hxyx5p0N/logos-sebas-Python.png)](https://postimg.cc/8JTNgg0d)"/>
+<img src="https://i.postimg.cc/SNDyn2Fs/logos-sebas-Php.png)](https://postimg.cc/CznytKKT)"/>
+<img src="https://i.postimg.cc/zGb9qVq4/logos-sebas-Mysql.png)](https://postimg.cc/VJw7RsrF)"/>
+<img src=""/>
 
 </p>
 <br>
