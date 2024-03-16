@@ -39,7 +39,8 @@
 <img src="https://i.postimg.cc/Hxyx5p0N/logos-sebas-Python.png)](https://postimg.cc/8JTNgg0d)"/>
 <img src="https://i.postimg.cc/SNDyn2Fs/logos-sebas-Php.png)](https://postimg.cc/CznytKKT)"/>
 <img src="https://i.postimg.cc/zGb9qVq4/logos-sebas-Mysql.png)](https://postimg.cc/VJw7RsrF)"/>
-<img src=""/>
+<img src="https://i.postimg.cc/zXJhmgFX/logos-sebas-Angular.png)](https://postimg.cc/Z0Mnp0Q1)"/>
+<img src="https://i.postimg.cc/65YvBpMV/logos-sebas-Git.png)](https://postimg.cc/hfQjrcWh)"/>
 
 </p>
 <br>
