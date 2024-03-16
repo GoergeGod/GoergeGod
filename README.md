@@ -32,10 +32,10 @@
 <h3 align="Center">Languages and Tools:</h3>  
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png)](https://postimg.cc/CdkcDVZs)"
-<img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png)](https://postimg.cc/hJyK95jK)"
-<img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png)](https://postimg.cc/0rf1m4HF)
-<img src="https://i.postimg.cc/5tQkWGSJ/logos-sebas-Java.png)](https://postimg.cc/4KZ1zW02)
+<img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png)](https://postimg.cc/CdkcDVZs)"/>
+<img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png)](https://postimg.cc/hJyK95jK)"/>
+<img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png)](https://postimg.cc/0rf1m4HF)"/>
+<img src="https://i.postimg.cc/5tQkWGSJ/logos-sebas-Java.png)](https://postimg.cc/4KZ1zW02)"/>
 <img src="
 <img src="
 <img src="
