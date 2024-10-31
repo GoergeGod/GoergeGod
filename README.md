@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm George.</h1>
-<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" /></a>
+<!--<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" /></a>-->
 <h3 align="center">About Me :</h3>  
 <br>
 <ul>
