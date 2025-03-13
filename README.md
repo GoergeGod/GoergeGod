@@ -30,7 +30,7 @@
 <img src="https://i.postimg.cc/Hxyx5p0N/logos-sebas-Python.png)](https://postimg.cc/8JTNgg0d)" style="height: 4rem"/>
 <img src="https://i.postimg.cc/SNDyn2Fs/logos-sebas-Php.png)](https://postimg.cc/CznytKKT)" style="height: 4rem"/>
 <img src="https://i.postimg.cc/zGb9qVq4/logos-sebas-Mysql.png)](https://postimg.cc/VJw7RsrF)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/zXJhmgFX/logos-sebas-React.png)](https://postimg.cc/Z0Mnp0Q1)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/zXJhmgFX/logos-sebas-React.png)]" style="height: 4rem"/>
 <img src="https://i.postimg.cc/65YvBpMV/logos-sebas-Git.png)](https://postimg.cc/hfQjrcWh)" style="height: 4rem"/>
 
 </p>
