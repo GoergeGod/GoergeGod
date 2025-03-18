@@ -21,7 +21,7 @@
 
 <h3 align="Center">Languages and Tools:</h3>  
 <br>
-<div style="display:flex justify-content: space-between> 
+<div style="display:flex justify-content:space-between"> 
 <div>
 <img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png"    style="height: 4rem"/>
 <img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png"    style="height: 4rem"/>
