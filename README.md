@@ -11,20 +11,15 @@
     <li>I Am Very Disciplined And Constant</li>
     <li>I Love Reading Books And Developing Myself As A Person</li>
 </ul>
-
 <img src="https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gif" align="right"/>
 
-<br>
-
-
-</div>
 <br>
 <hr>
 <!-- Tech Stack --> 
 
 <h3 align="center">Languages and Tools:</h3>  
 <br>
-<p aling="center">
+<p align="center">
     <img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png"    style="height: 4rem"/>
     <img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png"    style="height: 4rem"/>
     <img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png" style="height: 4rem"/>
