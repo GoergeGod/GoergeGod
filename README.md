@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 
-<h1 align="center">Hi !! I'm George.</h1<img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" style="width: 4rem height: 4rem"/> 
+<h1 align="center">Hi <img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" style="width: 4rem height: 4rem"/>  !! I'm George.</h1<img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" style="width: 4rem height: 4rem"/> 
 <h3 align="center">About Me :</h3>  
 <br>
 <ul>
@@ -33,7 +33,7 @@
 <img src="https://i.postimg.cc/7hjQsDkv/Logo-React.png"        style="height: 4rem"/>
 <img src="https://i.postimg.cc/T1K4J1Bq/Logo-Node-Js.png"      style="height: 4rem"/>
 
-
+<img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" style="width: 4rem height: 4rem"/> 
 
 </p>
 <br>
