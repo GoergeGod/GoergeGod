@@ -21,7 +21,7 @@
 
 <h3 align="Center">Languages and Tools:</h3>  
 <br>
-<div>
+<div aling="center">
 <img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png"    style="height: 4rem"/>
 <img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png"    style="height: 4rem"/>
 <img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png" style="height: 4rem"/>
