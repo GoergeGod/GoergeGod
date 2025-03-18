@@ -7,7 +7,7 @@
 <br>
 <ul>
     <li>I am 19 years old</li>
-    <li>I am a backend developer</li>
+    <li>I am a full stack developer</li>
     <li>I love learning</li>
     <li>I am very disciplined and constant</li>
     <li>I love reading books and developing myself as a person</li>
