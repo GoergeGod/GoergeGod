@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 
-<h1 align="center">Hi !! I'm George.</h1<img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif"/> 
+<h1 align="center">Hi !! I'm George.</h1<img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" style="height: 4rem"/> 
 <h3 align="center">About Me :</h3>  
 <br>
 <ul>
