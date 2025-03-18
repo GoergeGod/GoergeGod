@@ -1,8 +1,7 @@
 <!-- Intro -->
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm George.</h1>
-<!--<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" /></a>-->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm George.</h1
 <h3 align="center">About Me :</h3>  
 <br>
 <ul>
@@ -23,17 +22,16 @@
 <h3 align="Center">Languages and Tools:</h3>  
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png)](https://postimg.cc/CdkcDVZs)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png)](https://postimg.cc/hJyK95jK)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png)](https://postimg.cc/0rf1m4HF)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/5tQkWGSJ/logos-sebas-Java.png)](https://postimg.cc/4KZ1zW02)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/Hxyx5p0N/logos-sebas-Python.png)](https://postimg.cc/8JTNgg0d)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/SNDyn2Fs/logos-sebas-Php.png)](https://postimg.cc/CznytKKT)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/zGb9qVq4/logos-sebas-Mysql.png)](https://postimg.cc/VJw7RsrF)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/65YvBpMV/logos-sebas-Git.png)](https://postimg.cc/hfQjrcWh)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/cJvfF3Xz/Logo-React.png)(https://postimg.cc/Y4w49vcN)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/wBnLZBrj/Logo-Node-Js.png)(https://postimg.cc/94tDqcV6" style="height: 4rem"/>
-
+<img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png)(https://postimg.cc/CdkcDVZs)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png)(https://postimg.cc/hJyK95jK)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png)(https://postimg.cc/0rf1m4HF)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/5tQkWGSJ/logos-sebas-Java.png)(https://postimg.cc/4KZ1zW02)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/Hxyx5p0N/logos-sebas-Python.png)(https://postimg.cc/8JTNgg0d)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/SNDyn2Fs/logos-sebas-Php.png)(https://postimg.cc/CznytKKT)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/zGb9qVq4/logos-sebas-Mysql.png)(https://postimg.cc/VJw7RsrF)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/65YvBpMV/logos-sebas-Git.png)(https://postimg.cc/hfQjrcWh)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/7hjQsDkv/Logo-React.png)(https://postimg.cc/y3XPxMxn)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/T1K4J1Bq/Logo-Node-Js.png)(https://postimg.cc/n9t2HFFC)" style="height: 4rem"/>
 
 
 
