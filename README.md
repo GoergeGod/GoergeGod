@@ -10,6 +10,7 @@
     <li>I Love Learning</li>
     <li>I Am Very Disciplined And Constant</li>
     <li>I Love Reading Books And Developing Myself As A Person</li>
+    <img src=" https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gif"/>
 </ul>
 <br>
 
