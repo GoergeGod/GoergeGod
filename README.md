@@ -1,15 +1,15 @@
 <!-- Intro -->
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm George.</h1
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">  !! I'm George.</h1
 <h3 align="center">About Me :</h3>  
 <br>
 <ul>
-    <li>I am 19 years old</li>
-    <li>I am a full stack developer</li>
-    <li>I love learning</li>
-    <li>I am very disciplined and constant</li>
-    <li>I love reading books and developing myself as a person</li>
+    <li>I Am 19 Years Old</li>
+    <li>I Am A Full Stack Developer</li>
+    <li>I Love Learning</li>
+    <li>I Am Very Disciplined And Constant</li>
+    <li>I Love Reading Books And Developing Myself As A Person</li>
 </ul>
 <br>
 
