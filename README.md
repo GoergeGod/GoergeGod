@@ -22,7 +22,7 @@
 <h3 align="Center">Languages and Tools:</h3>  
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png)](https://postimg.cc/CdkcDVZs)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png)(https://postimg.cc/CdkcDVZs)" style="height: 4rem"/>
 <img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png)(https://postimg.cc/hJyK95jK)" style="height: 4rem"/>
 <img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png)(https://postimg.cc/0rf1m4HF)" style="height: 4rem"/>
 <img src="https://i.postimg.cc/5tQkWGSJ/logos-sebas-Java.png)(https://postimg.cc/4KZ1zW02)" style="height: 4rem"/>
@@ -31,7 +31,7 @@
 <img src="https://i.postimg.cc/zGb9qVq4/logos-sebas-Mysql.png)(https://postimg.cc/VJw7RsrF)" style="height: 4rem"/>
 <img src="https://i.postimg.cc/65YvBpMV/logos-sebas-Git.png)(https://postimg.cc/hfQjrcWh)" style="height: 4rem"/>
 <img src="https://i.postimg.cc/7hjQsDkv/Logo-React.png)(https://postimg.cc/y3XPxMxn)" style="height: 4rem"/>
-<img src="https://i.postimg.cc/T1K4J1Bq/Logo-Node-Js.png)(https://postimg.cc/n9t2HFFC)" style="height: 4rem"/>
+<img src="https://i.postimg.cc/T1K4J1Bq/Logo-Node-Js.png" style="height: 4rem"/>
 
 
 
