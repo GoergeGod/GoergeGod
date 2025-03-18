@@ -12,7 +12,7 @@
     <li>I Love Reading Books And Developing Myself As A Person</li>
 </ul>
 
-<img src="https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gif" align="end"/>
+<img src="https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gif" align="right"/>
 
 <br>
 
