@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">  !! I'm George.</h1
+<h1 align="center">Hi <img src="https://media1.tenor.com/m/e-ttxLHcNZEAAAAC/luffy-smiling.gif"  !! I'm George.</h1
 <h3 align="center">About Me :</h3>  
 <br>
 <ul>
