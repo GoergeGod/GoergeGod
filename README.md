@@ -46,7 +46,7 @@
     <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />   
 <div>
 </div>
-    <img src="https://tenor.com/es/view/tree-gif-27613789" align="right"/>
+    <img src="https://media.tenor.com/TY1Rz416Ep4AAAAj/tree.gif" align="right"/>
 </div>
          
 
