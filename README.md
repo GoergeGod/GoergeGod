@@ -48,7 +48,7 @@
     <img width="60%" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6" />
 </div>
 <div>
-    <div widht="30%" height="auto"></div>
+    <div widht="300px" height="300px"></div>
     <img width="60%" align="center" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />
 </div>
 
