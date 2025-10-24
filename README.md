@@ -43,9 +43,10 @@
 
 <div aling="display:flex gap-2">
     <img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6" />
-</div>
-<div>
     <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />   
+<div>
+</div>
+    <div class="tenor-gif-embed" data-postid="27613789" data-share-method="host" data-aspect-ratio="0.925" data-width="100%"><a href="https://tenor.com/view/tree-gif-27613789">Tree Sticker</a>from <a href="https://tenor.com/search/tree-stickers">Tree Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
          
 
