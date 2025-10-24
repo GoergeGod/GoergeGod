@@ -38,11 +38,11 @@
  <div align="center">
      <h3 aling="center">Play of Cumputer<h3>
          <br>
-   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
+   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.png" /><br>
  </div>
 
 <div>
-    <img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.png" width="467" height="200px" />
+    <img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.png" />
     <img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6" />
     <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />
 </div>
