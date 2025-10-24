@@ -46,7 +46,7 @@
     <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />   
 <div>
 </div>
-    <div class="tenor-gif-embed" data-postid="27613789" data-share-method="host" data-aspect-ratio="0.925" data-width="100%"><a href="https://tenor.com/view/tree-gif-27613789">Tree Sticker</div>
+    <img src="https://tenor.com/es/view/tree-gif-27613789" align="right"/>
 </div>
          
 
