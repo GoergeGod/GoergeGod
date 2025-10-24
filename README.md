@@ -38,7 +38,7 @@
  <div align="center">
      <h3 aling="center">Play of Cumputer<h3>
          <br>
-   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.png" /><br>
+   <img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" /><br>
  </div>
 
 <div>
