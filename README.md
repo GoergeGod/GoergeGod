@@ -44,8 +44,8 @@
 <hr>
 
 <div>
-    <img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.png" />
-    <img width="50%" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6" />
+    <img width="30%" src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.png" />
+    <img width="60%" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img width="80%" align="center" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />
