@@ -43,10 +43,8 @@
 
 <div aling="display:flex gap-2">
     <img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6" />
-    <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />   
-</div>
     <img src="https://media.tenor.com/TY1Rz416Ep4AAAAj/tree.gif" align="right"/>
-</div>
+    <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />   
 <div>
          
 
