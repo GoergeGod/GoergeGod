@@ -38,7 +38,7 @@
  <div align="center">
      <h3 aling="center">Play of Cumputer<h3>
          <br>
-   <img src="https://media1.tenor.com/m/jrrES6ysvO0AAAAC/chromedino.gif" /><br>
+   <img width="full" src="https://media1.tenor.com/m/jrrES6ysvO0AAAAC/chromedino.png" /><br>
  </div>
 
 <div>
