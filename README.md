@@ -38,7 +38,7 @@
  <div align="center">
      <h3 aling="center">Play of Cumputer<h3>
          <br>
-   <img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" /><br>
+   <img src="https://media1.tenor.com/m/jrrES6ysvO0AAAAC/chromedino.gif" /><br>
  </div>
 
 <div>
