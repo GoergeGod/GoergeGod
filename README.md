@@ -11,7 +11,7 @@
     <li>I Am Very Disciplined And Constant</li>
     <li>I Love Reading Books And Developing Myself As A Person</li>
 </ul>
-<img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" align="right"/>
+<img src="https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gif" align="right"/>
 
 <br>
 <hr>
@@ -44,7 +44,7 @@
 <div aling="display:flex gap-2">
     <img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6" />
     <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />   
-    <img src="https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gif" align="right"/>
+    <img src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.gif" align="right"/>
 <div>
          
 
