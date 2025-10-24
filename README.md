@@ -48,7 +48,7 @@
     <img width="60%" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6" />
 </div>
 <div>
-    <img width="30%" src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.png" display="none" />
+    <div widht="30%" height="auto"></div>
     <img width="60%" align="center" alt="image" src="https://github.com/user-attachments/assets/c0819d1e-4128-4f09-81b4-bffb0c7e57ae" />
 </div>
 
