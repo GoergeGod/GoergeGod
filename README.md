@@ -23,8 +23,8 @@
     <img src="https://i.postimg.cc/G3SVWLdV/logos-sebas-Html.png"    style="height: 4rem"/>
     <img src="https://i.postimg.cc/rmczL62R/logos-sebas-Css.png"    style="height: 4rem"/>
     <img src="https://i.postimg.cc/tC0R0Qdq/logos-sebas-Java-Script.png" style="height: 4rem"/>
-    <img src="https://i.postimg.cc/5tQkWGSJ/logos-sebas-Java.png"   style="height: 4rem"/>
-    <img src="https://i.postimg.cc/Hxyx5p0N/logos-sebas-Python.png" style="height: 4rem"/>
+    <!--img src="https://i.postimg.cc/5tQkWGSJ/logos-sebas-Java.png"   style="height: 4rem"/-->
+    <!--img src="https://i.postimg.cc/Hxyx5p0N/logos-sebas-Python.png" style="height: 4rem"/-->
     <img src="https://i.postimg.cc/SNDyn2Fs/logos-sebas-Php.png"    style="height: 4rem"/>
     <img src="https://i.postimg.cc/zGb9qVq4/logos-sebas-Mysql.png" style="height: 4rem"/>
     <img src="https://i.postimg.cc/65YvBpMV/logos-sebas-Git.png"   style="height: 4rem"/>
