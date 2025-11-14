@@ -9,7 +9,7 @@
     <li>I Am A Full Stack Developer Junior!!</li>
     <li>I Love Learning!!</li>
     <li>I Am Very Disciplined And Constant!!</li>
-    <li>I Love Reading Books And Developing Myself As A Person</li>
+    <li>I Love Reading Books And Developing Myself As A Person!!</li>
 </ul>
 <img src="https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gng" align="right"/>
 
