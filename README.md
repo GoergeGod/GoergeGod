@@ -28,7 +28,7 @@
     <img src="https://i.postimg.cc/SNDyn2Fs/logos-sebas-Php.png" style="height: 4rem"/>
     <img src="https://i.postimg.cc/zGb9qVq4/logos-sebas-Mysql.png" style="height: 4rem"/>
     <img src="https://i.postimg.cc/65YvBpMV/logos-sebas-Git.png" style="height: 4rem"/>
-    <img src="https://i.postimg.cc/7hjQsDkv/Logo-React.png"        style="height: 4rem"/>
+    <img src="https://i.postimg.cc/7hjQsDkv/Logo-React.png" style="height: 4rem"/>
     <img src="https://i.postimg.cc/T1K4J1Bq/Logo-Node-Js.png"      style="height: 4rem"/>
 </p>
 
