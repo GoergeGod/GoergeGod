@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi I'm George!!</h1
 <h3 align="center">About Me!! :</h3>  
 <br>
@@ -12,7 +9,6 @@
     <li>I Love Reading Books And Developing Myself As A Person!!</li>
 </ul>
 <img src="https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gng" align="right"/>
-
 <br>
 <hr>
 <!-- Tech Stack --> 
