@@ -11,8 +11,8 @@
 <img src="https://media.tenor.com/JsugQAXyL5sAAAAj/one-piece-pixel.gng" align="right"/>
 <br>
 <hr>
-<!-- Tech Stack --> 
 
+<!-- Tech Stack --> 
 <h3 align="center">Languages and Tools!!:</h3>  
 <br>
 <p align="center">
@@ -30,7 +30,6 @@
 
 <br>
 <!-- Gif Dino -->
-
  <div align="center">
      <h3 aling="center">Play of Cumputer!!<h3>
          <br>
