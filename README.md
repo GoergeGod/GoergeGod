@@ -27,15 +27,14 @@
     <img src="https://i.postimg.cc/7hjQsDkv/Logo-React.png" style="height:4rem"/>
     <img src="https://i.postimg.cc/T1K4J1Bq/Logo-Node-Js.png" style="height: 4rem"/>
 </p>
-
 <br>
+
 <!-- Gif Dino -->
  <div align="center">
      <h3 aling="center">Play of Cumputer!!<h3>
          <br>
    <img width="100%" src="https://media1.tenor.com/m/jrrES6ysvO0AAAAC/chromedino.png"/><br>
  </div>
-         
 <hr>
 
 <div>
