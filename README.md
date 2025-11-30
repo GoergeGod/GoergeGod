@@ -36,7 +36,7 @@
    <img width="100%" src="https://media1.tenor.com/m/jrrES6ysvO0AAAAC/chromedino.png"/><br>
  </div>
 <hr>
-
+         
 <div>
     <img width="30%" src="https://media.tenor.com/kGe0A0NBA8kAAAAi/one-piece-pixel.png"/>
     <!--img width="68%" alt="image" src="https://github.com/user-attachments/assets/1ad0fd66-d551-4e9c-b0b7-491aa05e0af6"/-->
