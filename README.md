@@ -33,7 +33,8 @@
  <div align="center">
      <h3 aling="center">Play of Cumputer!!<h3>
          <br>
-   <img width="100%" src="https://media1.tenor.com/m/jrrES6ysvO0AAAAC/chromedino.png"/><br>
+   <img width="100%" src="https://media1.tenor.com/m/jrrES6ysvO0AAAAC/chromedino.png"/>
+<br>
  </div>
 <hr>
          
