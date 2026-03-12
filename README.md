@@ -27,6 +27,7 @@
     <img src="https://i.postimg.cc/7hjQsDkv/Logo-React.png" style="height:4rem"/>
     <img src="https://i.postimg.cc/T1K4J1Bq/Logo-Node-Js.png" style="height:4rem"/>
     <img src="https://i.postimg.cc/Pxv0xBrN/Logo-Sebas-Next-Js.png" style="height:4rem"/>
+    <img src="https://i.postimg.cc/Jz2Lz3cg/Logo-Sebas-Tailwind-Css.png" style="height:4rem"/>
 </p>
 <br>
 
