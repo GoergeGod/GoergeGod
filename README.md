@@ -26,7 +26,7 @@
     <img src="https://i.postimg.cc/65YvBpMV/logos-sebas-Git.png" style="height: 4rem"/>
     <img src="https://i.postimg.cc/7hjQsDkv/Logo-React.png" style="height:4rem"/>
     <img src="https://i.postimg.cc/T1K4J1Bq/Logo-Node-Js.png" style="height:4rem"/>
-    <img src="https://i.postimg.cc/k53JqFyq/Gemini-Generated-Image-usan0usan0usan0u.png" style="height:4rem"/>
+    <img src="https://i.postimg.cc/Pxv0xBrN/Logo-Sebas-Next-Js.png" style="height:4rem"/>
 </p>
 <br>
 
