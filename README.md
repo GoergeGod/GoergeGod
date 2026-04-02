@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm George!!</h1>
 <h3 align="center">About Me!! :</h3>  
 <br>
-<ul>  
+<ul>   
     <li>I Am 20 Years Old!!</li>   
     <li>I Am A Full Stack Developer Junior!!</li>   
     <li>I Love Learning!!</li>
